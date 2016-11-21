@@ -1,0 +1,5 @@
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker\bin\Debug\FlightBooker.dll
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker\bin\Debug\FlightBooker.pdb
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker\obj\Debug\FlightBooker.dll
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker\obj\Debug\FlightBooker.pdb
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker\obj\Debug\FlightBooker.csprojResolveAssemblyReference.cache

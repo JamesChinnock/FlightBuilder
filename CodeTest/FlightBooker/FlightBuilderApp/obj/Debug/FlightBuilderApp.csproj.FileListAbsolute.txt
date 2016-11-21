@@ -1,0 +1,9 @@
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBuilderApp\bin\Debug\FlightBuilderApp.exe.config
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBuilderApp\bin\Debug\FlightBuilderApp.exe
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBuilderApp\bin\Debug\FlightBuilderApp.pdb
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBuilderApp\bin\Debug\FlightBooker.dll
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBuilderApp\bin\Debug\StructureMap.dll
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBuilderApp\bin\Debug\FlightBooker.pdb
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBuilderApp\obj\Debug\FlightBuilderApp.csprojResolveAssemblyReference.cache
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBuilderApp\obj\Debug\FlightBuilderApp.exe
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBuilderApp\obj\Debug\FlightBuilderApp.pdb

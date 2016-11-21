@@ -1,0 +1,10 @@
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker.Tests\bin\Debug\FlightBooker.Tests.dll
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker.Tests\bin\Debug\FlightBooker.Tests.pdb
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker.Tests\bin\Debug\FlightBooker.dll
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker.Tests\bin\Debug\FlightBooker.pdb
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker.Tests\obj\Debug\FlightBooker.Tests.csprojResolveAssemblyReference.cache
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker.Tests\obj\Debug\FlightBooker.Tests.dll
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker.Tests\obj\Debug\FlightBooker.Tests.pdb
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker.Tests\bin\Debug\Rhino.Mocks.dll
+D:\James\Dev\Interviews\travelRepublic\CodeTest\FlightBooker\FlightBooker.Tests\bin\Debug\Rhino.Mocks.xml
